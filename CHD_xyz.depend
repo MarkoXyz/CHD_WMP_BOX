@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1525585456 source:c:\users\luoqi\desktop\chd_xyz\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	<windows.h>
+	<process.h>
+	<WinSock2.h>
+	<exception>
+	"my_typedef.h"
+
+1525585660 c:\users\luoqi\desktop\chd_xyz\my_typedef.h
+
